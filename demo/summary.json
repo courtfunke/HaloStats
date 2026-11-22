@@ -1,0 +1,96 @@
+{
+ "title": "Fireteam Stats",
+ "updatedAt": "2026-11-22T06:31:16.036Z",
+ "players": [
+  {
+   "gamertag": "Battle Cheese",
+   "slug": "battle-cheese",
+   "serviceRecord": {
+    "multiplayer": {
+     "gamesPlayed": 456,
+     "wins": 252,
+     "losses": 204,
+     "kills": 8142,
+     "deaths": 6330,
+     "assists": 1902,
+     "headshots": 2094
+    }
+   },
+   "matchCount": 76,
+   "lastUpdated": "2026-11-22T06:31:09.592Z",
+   "error": null
+  },
+  {
+   "gamertag": "RufusKrayola01",
+   "slug": "rufuskrayola01",
+   "serviceRecord": {
+    "multiplayer": {
+     "gamesPlayed": 480,
+     "wins": 294,
+     "losses": 186,
+     "kills": 6888,
+     "deaths": 6618,
+     "assists": 2010,
+     "headshots": 1680
+    }
+   },
+   "matchCount": 80,
+   "lastUpdated": "2026-11-22T06:31:11.204Z",
+   "error": null
+  },
+  {
+   "gamertag": "Puddup",
+   "slug": "puddup",
+   "serviceRecord": {
+    "multiplayer": {
+     "gamesPlayed": 468,
+     "wins": 264,
+     "losses": 204,
+     "kills": 7686,
+     "deaths": 6642,
+     "assists": 2082,
+     "headshots": 2070
+    }
+   },
+   "matchCount": 78,
+   "lastUpdated": "2026-11-22T06:31:12.816Z",
+   "error": null
+  },
+  {
+   "gamertag": "The True Bruno",
+   "slug": "the-true-bruno",
+   "serviceRecord": {
+    "multiplayer": {
+     "gamesPlayed": 510,
+     "wins": 282,
+     "losses": 228,
+     "kills": 6492,
+     "deaths": 7152,
+     "assists": 2148,
+     "headshots": 1530
+    }
+   },
+   "matchCount": 85,
+   "lastUpdated": "2026-11-22T06:31:14.427Z",
+   "error": null
+  },
+  {
+   "gamertag": "Skylord Paul",
+   "slug": "skylord-paul",
+   "serviceRecord": {
+    "multiplayer": {
+     "gamesPlayed": 552,
+     "wins": 318,
+     "losses": 234,
+     "kills": 11256,
+     "deaths": 7512,
+     "assists": 2178,
+     "headshots": 2844
+    }
+   },
+   "matchCount": 92,
+   "lastUpdated": "2026-11-22T06:31:16.036Z",
+   "error": null
+  }
+ ]
+}
